@@ -35,8 +35,6 @@ Atualmente, meu foco é unir minha base em lógica de programação (Python) com
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoSatCode&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true"/>
