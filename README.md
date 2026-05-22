@@ -1,55 +1,99 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9B8FC4&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%7C+QA+%26+Automação;Delphi+%7C+PostgreSQL+%7C+SQL+Server;Python+%7C+Robot+Framework+%7C+Front-end;Apaixonado+por+qualidade+de+software+🔍" alt="Typing SVG" />
+
 # Olá! Eu sou o Leonardo Saturnino 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia em transição para a área de **Quality Assurance (QA)** e Desenvolvimento.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=5a7cbf&color=ddeefa)](https://www.linkedin.com/in/leosatcode/)
+[![Gmail](https://img.shields.io/badge/Gmail-leosatcode%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&labelColor=c47070&color=fde8e8)](mailto:leosatcode@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LeoSatCode-purple?style=flat-square&logo=github&logoColor=white&labelColor=7a5fbf&color=ede8f8)](https://github.com/LeoSatCode)
 
-Atualmente, meu foco é unir minha base em lógica de programação (Python) com ferramentas de automação para garantir a qualidade de software, mas também possuo um forte background em Front-end (Angular/React).
+</div>
+
+---
+
+## 👨‍🚀 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para a área de **Quality Assurance (QA)** e Desenvolvimento de Software.
+
+Meu foco atual está em desenvolvimento com **Delphi**, bancos de dados relacionais (**PostgreSQL** e **SQL Server**) e ferramentas de automação para qualidade de software — mas também carrego um forte background em **Front-end** com Angular e React.
+
+```python
+leo = {
+    "nome":      "Leonardo Saturnino",
+    "foco":      ["Delphi", "PostgreSQL", "SQL Server", "QA & Automação"],
+    "stack_db":  ["PostgreSQL", "SQL Server", "Delphi"],
+    "stack_qa":  ["Robot Framework", "Python", "Linux"],
+    "stack_fe":  ["Angular", "React", "Next.js", "TypeScript"],
+    "status":    "🟢 Aberto a oportunidades"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
 
-**Foco Atual & QA:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kivy](https://img.shields.io/badge/Kivy-FFD54F?style=for-the-badge&logo=kivy&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+### 🔍 Foco Atual
 
-**Web & Front-end:**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-fce8f0?style=for-the-badge&logo=delphi&logoColor=9a2a56)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e5f0fb?style=for-the-badge&logo=postgresql&logoColor=2a5ea8)
+![SQL Server](https://img.shields.io/badge/SQL_Server-e2f6f0?style=for-the-badge&logo=microsoftsqlserver&logoColor=1a7a5e)
+![Python](https://img.shields.io/badge/Python-ede8f8?style=for-the-badge&logo=python&logoColor=5a40a8)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-e2f6f0?style=for-the-badge&logo=robot-framework&logoColor=1a7a5e)
+![Linux](https://img.shields.io/badge/Linux-fdf5de?style=for-the-badge&logo=linux&logoColor=8a6500)
+
+### 🌐 Web & Front-end
+
+![Angular](https://img.shields.io/badge/Angular-fce8f0?style=for-the-badge&logo=angular&logoColor=9a2a56)
+![TypeScript](https://img.shields.io/badge/TypeScript-e5f0fb?style=for-the-badge&logo=typescript&logoColor=2a5ea8)
+![JavaScript](https://img.shields.io/badge/JavaScript-fdf5de?style=for-the-badge&logo=javascript&logoColor=8a6500)
+![React](https://img.shields.io/badge/React-e4f3fb?style=for-the-badge&logo=react&logoColor=1a6898)
+![Next.js](https://img.shields.io/badge/Next.js-f0edf8?style=for-the-badge&logo=next.js&logoColor=4a3878)
+![HTML5](https://img.shields.io/badge/HTML5-fce8f0?style=for-the-badge&logo=html5&logoColor=9a2a56)
+![CSS3](https://img.shields.io/badge/CSS3-e4f3fb?style=for-the-badge&logo=css3&logoColor=1a6898)
 
 ---
 
 ## 🔭 Projetos em Destaque
 
-* **Code Control:** Sistema de controle de estoque e fluxo de caixa desenvolvido em Python com interface KivyMD. Focado em resolver dores reais de gestão de inventário.
-* **Game Dev (Indie):** Desenvolvedor de jogos nas horas vagas. Criador de protótipos em Godot e Unity, focando em lógica de eventos e colisão.
+<div align="center">
+
+| 📦 Code Control | 🎮 Game Dev Indie |
+|---|---|
+| Sistema de controle de **estoque e fluxo de caixa** desenvolvido em Python com interface KivyMD | Desenvolvimento de protótipos em **Godot e Unity**, focando em lógica de eventos e colisão |
+| `Python` `KivyMD` `Gestão` | `Godot` `Unity` `Game Logic` |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoSatCode&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSatCode&layout=compact&bg_color=000&border_color=30A3DC&text_color=FFF&hide_title=true"/>
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeoSatCode&show_icons=true&theme=transparent&bg_color=f8f5fe&border_color=cec4ec&icon_color=7a5fbf&title_color=3d2d6e&text_color=5a4888&hide_border=false" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSatCode&layout=compact&bg_color=f8f5fe&border_color=cec4ec&text_color=5a4888&title_color=3d2d6e" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeoSatCode&theme=transparent&background=f8f5fe&border=cec4ec&ring=7a5fbf&fire=9b8fc4&currStreakLabel=3d2d6e&sideLabels=5a4888&dates=9b8fc4&currStreakNum=3d2d6e&sideNums=5a4888)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+## 🌱 Minhas Contribuições
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosatcode/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leosatcode@gmail.com)
+<div align="center">
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoSatCode&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LeoSatCode&repo=dio-lab-open-source&bg_color=f8f5fe&border_color=cec4ec&show_icons=true&icon_color=7a5fbf&title_color=3d2d6e&text_color=5a4888)](https://github.com/digitalinnovationone/dio-lab-open-source)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Quality is not an act, it is a habit."* — Aristotle 👨‍🚀
+
+</div>
