@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/LeoSatCode/ToDo-List---Delphi-PostgreSQL/blob/main/Images/astronaut.svg" alt="AStronaut" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9B8FC4&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%7C+QA+%26+Automação;Delphi+%7C+PostgreSQL+%7C+SQL+Server;Python+%7C+Robot+Framework+%7C+Front-end;Apaixonado+por+qualidade+de+software+🔍" alt="Typing SVG" />
 
 # Olá! Eu sou o Leonardo Saturnino 👋
