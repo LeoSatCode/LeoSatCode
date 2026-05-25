@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/LeoSatCode/ToDo-List---Delphi-PostgreSQL/blob/main/Images/astronaut.svg" alt="AStronaut" />
+  <img src="https://raw.githubusercontent.com/LeoSatCode/ToDo-List---Delphi-PostgreSQL/main/Images/astronaut.svg" alt="Astronauta" width="200" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9B8FC4&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%7C+QA+%26+Automação;Delphi+%7C+PostgreSQL+%7C+SQL+Server;Python+%7C+Robot+Framework+%7C+Front-end;Apaixonado+por+qualidade+de+software+🔍" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=9B8FC4&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%7C+QA+%26+Automação;Delphi+%7C+PostgreSQL+%7C+SQL+Server;Python+%7C+Robot+Framework+%7C+Front-end;Apaixonado+por+qualidade+de+software+🔍" alt="Typing SVG" />
+  <h1>Olá! Eu sou o Leonardo Saturnino 👋</h1>
 
-# Olá! Eu sou o Leonardo Saturnino 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=5a7cbf&color=ddeefa)](https://www.linkedin.com/in/leosatcode/)
-[![Gmail](https://img.shields.io/badge/Gmail-leosatcode%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&labelColor=c47070&color=fde8e8)](mailto:leosatcode@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-LeoSatCode-purple?style=flat-square&logo=github&logoColor=white&labelColor=7a5fbf&color=ede8f8)](https://github.com/LeoSatCode)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=5a7cbf&color=ddeefa)](https://www.linkedin.com/in/leosatcode/)
+  [![Gmail](https://img.shields.io/badge/Gmail-leosatcode%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&labelColor=c47070&color=fde8e8)](mailto:leosatcode@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-LeoSatCode-purple?style=flat-square&logo=github&logoColor=white&labelColor=7a5fbf&color=ede8f8)](https://github.com/LeoSatCode)
 
 </div>
 
