@@ -25,7 +25,7 @@ leo = {
     "stack_db":  ["PostgreSQL", "SQL Server", "Delphi"],
     "stack_qa":  ["Robot Framework", "Python", "Linux"],
     "stack_fe":  ["Angular", "React", "Next.js", "TypeScript"],
-    "status":    "🟢 Aberto a oportunidades"
+    "status":    "🟢 Aberto a oportunidades como freelancer"
 }
 ```
 
